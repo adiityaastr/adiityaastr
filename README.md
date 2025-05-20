@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="250"/>
+  <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif?cid=ecf05e47gefdc31t674uerh3zuqv1h1fa26llegulu2iyesf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
 </div>
 <h1 align="center">Hi 👋, I'm Muhamad Aditya Saputra</h1>
 <h3 align="center">An Informatics Engineering Undergraduate Student passionate about Web Development, Software Engineering, and Game Development</h3>
@@ -17,7 +17,7 @@
 
 - 🤝 I’m open to collaborations on **creative tech projects, games, or web apps**
 
-- 📫 Reach me at **muhadityasptra@example.com** *(ganti dengan email asli kamu)*
+- 📫 Reach me at **madityaregar@gmail.com**
 
 - ⚡ Fun fact: **I enjoy turning complex problems into fun code challenges**
 
