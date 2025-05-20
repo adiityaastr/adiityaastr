@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **AI, programming, or general tech questions**
 
-- 📫 How to reach me **email: muhadityasptra@example.com** *(ganti dengan emailmu sendiri)*
+- 📫 How to reach me **email: madityaregar@gmail.com**
 
 - ⚡ Fun fact **I laugh way too easily, even at the simplest jokes.**
 
