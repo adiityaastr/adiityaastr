@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif?cid=ecf05e47gefdc31t674uerh3zuqv1h1fa26llegulu2iyesf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMzNHphdTR6bnA3NzdwcXMzaTQ3ajIwY3VrdnhueTc2bWtuMnIybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="250"/>
 </div>
 <h1 align="center">Hi 👋, I'm Muhamad Aditya Saputra</h1>
 <h3 align="center">An Informatics Engineering Undergraduate Student passionate about Web Development, Software Engineering, and Game Development</h3>
