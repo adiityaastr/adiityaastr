@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="250"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xZndqdjUyem9rcm1rcnM2MHh5bjJrdG55N2p4cHZ5YWxrZnA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="250"/>
 </div>
 <h1 align="center">Hi 👋, I'm Muhamad Aditya Saputra</h1>
 <h3 align="center">An Informatics Engineering Undergraduate Student passionate about Computer Vision and AI</h3>
