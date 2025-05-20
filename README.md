@@ -1,25 +1,25 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm9xZndqdjUyem9rcm1rcnM2MHh5bjJrdG55N2p4cHZ5YWxrZnA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="250"/>
+  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="250"/>
 </div>
 <h1 align="center">Hi 👋, I'm Muhamad Aditya Saputra</h1>
-<h3 align="center">An Informatics Engineering Undergraduate Student passionate about Computer Vision and AI</h3>
+<h3 align="center">An Informatics Engineering Undergraduate Student passionate about Web Development, Software Engineering, and Game Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasptra&label=Profile%20views&color=0e75b6&style=flat" alt="adityasptra" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasptra" alt="adityasptra" /></a> </p>
 
-- 🔭 I’m currently pursuing my **Bachelor's degree in Informatics Engineering**
+- 🎓 I’m currently studying **Informatics Engineering (S1)**
 
-- 🌱 I’m currently learning more about **Computer Vision, Pytorch, Tensorflow, and Machine Learning**
+- 🌐 I’m focusing on **Web Development**, **Software Engineering**, and **Game Development**
 
-- 👯 I’m looking to collaborate on **AI projects and Open Source contributions**
+- 💻 I love building things from scratch, whether it’s a website, a game, or a custom tool
 
-- 👨‍💻 All of my projects are available on **my GitHub profile**
+- 👨‍💻 You can find most of my work on **my GitHub repository**
 
-- 💬 Ask me about **AI, programming, or general tech questions**
+- 🤝 I’m open to collaborations on **creative tech projects, games, or web apps**
 
-- 📫 How to reach me **email: madityaregar@gmail.com**
+- 📫 Reach me at **muhadityasptra@example.com** *(ganti dengan email asli kamu)*
 
-- ⚡ Fun fact **I laugh way too easily, even at the simplest jokes.**
+- ⚡ Fun fact: **I enjoy turning complex problems into fun code challenges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,29 +31,32 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="40" height="40"/>
   </a>
 </p>
 
