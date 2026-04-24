@@ -1,21 +1,15 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMzNHphdTR6bnA3NzdwcXMzaTQ3ajIwY3VrdnhueTc2bWtuMnIybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="250"/>
-</div>
 <h1 align="center">Hi 👋, I'm Muhamad Aditya Saputra</h1>
-<h3 align="center">An Informatics Engineering Undergraduate Student passionate about Web Development, Software Engineering, and Game Development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasptra&label=Profile%20views&color=0e75b6&style=flat" alt="adityasptra" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasptra" alt="adityasptra" /></a> </p>
+<h3 align="center">An Informatics Engineering Undergraduate Student passionate about Web Development, Software Engineering, and Data Engineering</h3>
 
 - 🎓 I’m currently studying **Informatics Engineering (S1)**
 
-- 🌐 I’m focusing on **Web Development**, **Software Engineering**, and **Game Development**
+- 🌐 I’m focusing on **Web Development**, **Software Engineering**, and **Data Engineering**
 
-- 💻 I love building things from scratch, whether it’s a website, a game, or a custom tool
+- 💻 I love building things from scratch, whether it’s a website, a data pipeline, or a custom tool
 
 - 👨‍💻 You can find most of my work on **my GitHub repository**
 
-- 🤝 I’m open to collaborations on **creative tech projects, games, or web apps**
+- 🤝 I’m open to collaborations on **creative tech projects, data solutions, or web apps**
 
 - 📫 Reach me at **madityaregar@gmail.com**
 
@@ -52,12 +46,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="40" height="40"/>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasptra&show_icons=true&locale=en" alt="adityasptra" /></p>
