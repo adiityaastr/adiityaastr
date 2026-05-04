@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhamad Aditya Saputra</h1>
+<h3 align="center">Informatics Engineering Student | Web & Data Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Fullstack+Web+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Software+Engineering;Data+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,12 +15,12 @@
 
 ### 💫 About Me
 
-I am an **Informatics Engineering** undergraduate student with a deep interest in bridging the gap between robust software engineering and scalable data solutions. I thrive on turning complex logic into elegant, functional code.
+I am an **Informatics Engineering** undergraduate student passionate about building scalable web applications and efficient data pipelines. I love turning complex logic into fun and functional code challenges.
 
 - 🎓 **Education:** Currently pursuing S1 Informatics Engineering.
-- 🚀 **Focus:** Fullstack Web Development & Data Pipeline Engineering.
-- 💡 **Philosophy:** Building tools that solve real-world problems.
-- 🧪 **Fun Fact:** I treat debugging like a high-stakes puzzle game.
+- 🌐 **Focus:** Web Development, Software Engineering, & Data Engineering.
+- 💻 **Passion:** Building things from scratch, from custom tools to data pipelines.
+- 🤝 **Collaboration:** Open to creative tech projects and data solutions.
 
 ---
 
@@ -33,20 +35,18 @@ I am an **Informatics Engineering** undergraduate student with a deep interest i
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adiityaastr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats Card" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiityaastr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiityaastr&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect!
 
-- 💻 **Check out my projects:** [My Portfolio/GitHub](https://github.com/YOUR_GITHUB_USERNAME_HERE)
-- 💬 **Ask me about:** React, Node.js, or SQL optimization.
-- ⚡ **Open for:** Collaborations on web apps and data-driven projects.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
-</p>
+- 💻 **GitHub:** [github.com/adiityaastr](https://github.com/adiityaastr)
+- 📧 **Direct Mail:** madityaregar@gmail.com
+- ⚡ **Fun Fact:** I enjoy turning complex problems into fun code challenges.
