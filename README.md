@@ -33,16 +33,16 @@ I am an **Informatics Engineering** undergraduate student with a deep interest i
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adiityaastr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiityaastr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect!
 
-- 💻 **Check out my projects:** [My Portfolio/GitHub](https://github.com/YOUR_GITHUB_USERNAME_HERE)
+- 💻 **Check out my projects:** [My Portfolio/GitHub](https://github.com/adiityaastr)
 - 💬 **Ask me about:** React, Node.js, or SQL optimization.
 - ⚡ **Open for:** Collaborations on web apps and data-driven projects.
 
