@@ -1,55 +1,52 @@
 <h1 align="center">Hi 👋, I'm Muhamad Aditya Saputra</h1>
-<h3 align="center">An Informatics Engineering Undergraduate Student passionate about Web Development, Software Engineering, and Data Engineering</h3>
-
-- 🎓 I’m currently studying **Informatics Engineering (S1)**
-
-- 🌐 I’m focusing on **Web Development**, **Software Engineering**, and **Data Engineering**
-
-- 💻 I love building things from scratch, whether it’s a website, a data pipeline, or a custom tool
-
-- 👨‍💻 You can find most of my work on **my GitHub repository**
-
-- 🤝 I’m open to collaborations on **creative tech projects, data solutions, or web apps**
-
-- 📫 Reach me at **madityaregar@gmail.com**
-
-- ⚡ Fun fact: **I enjoy turning complex problems into fun code challenges**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/adiityastrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhamad-aditya-saputra-19a777279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/30589106/muhamad-aditya-saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
-<a href="https://kaggle.com/yourkaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Informatics+Engineering+Student;Fullstack+Web+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/muhamad-aditya-saputra-19a777279/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://x.com/adiityastrr" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
+  <a href="mailto:madityaregar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+</p>
+
+---
+
+### 💫 About Me
+
+I am an **Informatics Engineering** undergraduate student with a deep interest in bridging the gap between robust software engineering and scalable data solutions. I thrive on turning complex logic into elegant, functional code.
+
+- 🎓 **Education:** Currently pursuing S1 Informatics Engineering.
+- 🚀 **Focus:** Fullstack Web Development & Data Pipeline Engineering.
+- 💡 **Philosophy:** Building tools that solve real-world problems.
+- 🧪 **Fun Fact:** I treat debugging like a high-stakes puzzle game.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,py,mysql,pandas,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+- 💻 **Check out my projects:** [My Portfolio/GitHub](https://github.com/YOUR_GITHUB_USERNAME_HERE)
+- 💬 **Ask me about:** React, Node.js, or SQL optimization.
+- ⚡ **Open for:** Collaborations on web apps and data-driven projects.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
 </p>
